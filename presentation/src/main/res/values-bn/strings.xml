@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">NoteEase</string>
+
+    #Notes Section
+    <string name="note">নোটস</string>
+    <string name="empty_notes_text">নোট তৈরি করতে (+) আইকনে ক্লিক করুন</string>
+
+    #Edit Notes Section
+    <string name="edit_note">নোট এডিট করুন</string>
+    <string name="new_note">নতুন নোট</string>
+    <string name="title">টাইটেল</string>
+    <string name="body">কিছু লিখুন..</string>
+    <string name="created">তৈরি হয়েছে</string>
+    <string name="accessed">অ্যাক্সেস করা হয়েছে</string>
+    <string name="delete_note">নোট মুছুন</string>
+    <string name="are_you_sure_text">আপনি কি এই নোটটি মুছতে চান\?</string>
+    <string name="warning_text">নোট মুছে ফেলার পর তা পূর্বাবস্থায় ফেরানো যাবে না৷</string>
+
+    #Search
+    <string name="search">অনুসন্ধান করুন..</string>
+
+    #Settings Section
+    <string name="settings">সেটিংস</string>
+    <string name="theme">থিম</string>
+    <string name="system">সিস্টেম</string>
+    <string name="light">লাইট</string>
+    <string name="dark">ডার্ক</string>
+    <string name="language">ভাষা</string>
+
+    <string name="whats_new_text">নতুন কি</string>
+    <string name="initial_release_text">প্রাথমিক রিলিজ</string>
+    <string name="developer">ডেভেলপার</string>
+    <string name="socials_text">সোশ্যাল লিংকস</string>
+    <string name="socials_description_text">আপনি যদি ডেভেলপার এর সাথে যুক্ত হতে চান</string>
+    <string name="about">এপ সম্পর্কে</string>
+    <string name="version">সংস্করণ</string>
+
+    #Archive Section
+    <string name="archive">আর্কাইভ</string>
+    <string name="archive_details">আর্কাইভ নোট বিবরণ</string>
+    <string name="empty_archive_text">কোন নোট আর্কাইভড নেই</string>
+
+
+</resources>
